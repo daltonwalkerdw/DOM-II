@@ -350,3 +350,13 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+.allColor {
+  background-color: black;
+  color: white;
+  
+}
+.allColor a{
+  /* background-color: black; */
+  color: white;
+  
+}
